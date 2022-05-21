@@ -5,7 +5,7 @@
 
 - Adicionando o Express - 02:27: Nessa aula aprenderemos como instalar o Express em nosso projeto, o Express é um framework utilizado para lidar com requisições HTTP.
   - O [Express](https://expressjs.com/pt-br/) é um framework para aplicativo da web do Node.js mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel.
-  - Instalação: `npm install express --save`
+  - Instalação: `npm install express --save` (instalar como dependência de produção)
 - node_modules - 05:12: Nessa aula entenderemos para que serve a pasta `node_modules` o que tem dentro dela e como evitar para que ela seja enviada para um repositório na nuvem.
 - Utilizando o Express - 04:55: ssa aula aprenderemos como fazer as configurações iniciais do Express em nosso projeto.
   - node src/server.js
@@ -27,7 +27,11 @@
 
 <img src="./img/node4.jpg">
 
-- Nodemon - 07:49:
+- Nodemon - 07:49:Nessa aula instalaremos uma dependência de desenvolvimento chamada Nodemon. Dessa forma, não precisaremos ficar reiniciando o nosso servidor manualmente sempre que houver uma alteração.
+
+  - `npm install nodemon --save-dev` (instalar como dependência de desenvolvimento)
+  - Rodar com o dev: `npm run dev`
+
 - Insomnia - 02:48
 - Método POST - 02:27
 - Body Params - 04:57
