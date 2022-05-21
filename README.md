@@ -40,7 +40,16 @@
 
 - Body Params - 04:57: Nessa aula aprenderemos como enviar e receber dados utilizando o body da nossa requisição no formato JSON.
 
-- Organizando a estrutura do projeto - 10:48
+- Organizando a estrutura do projeto - 10:48: Nessa aula aprenderemos a melhor maneira de organizar a estrutura do nosso projeto. Imagem de exemplo de como será a estrutura daqui pra frente:
+
+<img src="./img/node5.jpg">
+  
+  - Criar pastas dendro de src/
+    - routes / users.routes.js; index.js
+    - controllers
+    - utils
+    - database / sqlite / migrations
+
 - Controllers - 06:08
 - Users Controller - 04:08
 - HTTP Codes - 04:35
