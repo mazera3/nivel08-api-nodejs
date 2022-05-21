@@ -22,8 +22,12 @@
 
 <img src="./img/node3.jpg">
 
-- Query Params - 08:23
-- Nodemon - 07:49
+- Query Params - 08:23: Nessa aula aprenderemos o que é Query Params e como utilizar e qual a diferença dele para o Route Params
+  - `http://localhost:3000/users?page=5&limit=10`
+
+<img src="./img/node4.jpg">
+
+- Nodemon - 07:49:
 - Insomnia - 02:48
 - Método POST - 02:27
 - Body Params - 04:57
