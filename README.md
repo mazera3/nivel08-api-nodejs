@@ -56,7 +56,12 @@
 
 - Users Controller - 04:08: Nessa aula começaremos a separar as responsabilidades do nosso projeto, para isso criaremos o nosso primeiro Controller (User Controller).
 
-- HTTP Codes - 04:35
+- HTTP Codes - 04:35: Nessa aula aprenderemos o significado dos principais HTTP Status Code
+
+<img src="./img/node6.jpg">
+
+<img src="./img/node7.jpg">
+
 - Entendendo Middlewares - 05:35
 - Utilizando Middlewares - 09:49
 - App Error - 03:50
