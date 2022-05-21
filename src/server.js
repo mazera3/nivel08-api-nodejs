@@ -1,19 +1,21 @@
 const express = require("express");
 
 const app = express();
+app.use(express.json());
 
 const PORT = 3000;
 
-app.get("/message/:id/:user", (request, response) => {
-  const { id, user } = request.params;
-  response.send(`
-  Id da mensagem: ${id},
-  Para o usuário: ${user}
-  `);
+app.post("/users", (request, response) => {
+  const { name, email, password } = request.body;
+  response.json({ name, email, password });
 });
 
-app.get("/users", (request, response) => {
-  const { page, limit } = request.query;
-  response.send(`Página: ${page}, Limite: ${limit}`);
-});
+/* No isomnia:
+{
+  "name":"Meu Nome",
+  "email": "email@email.br",
+  "password":"123456"
+}
+*/
+
 app.listen(PORT, () => console.log(`Server is running on Port ${PORT}`));

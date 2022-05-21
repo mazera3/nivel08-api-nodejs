@@ -32,9 +32,14 @@
   - `npm install nodemon --save-dev` (instalar como dependência de desenvolvimento)
   - Rodar com o dev: `npm run dev`
 
-- Insomnia - 02:48
-- Método POST - 02:27
-- Body Params - 04:57
+- Insomnia - 02:48: Nessa aula aprenderemos como utilizar outras rotas dentro do nosso projeto utilizando a ferramenta Insomnia.
+
+  - Comece a criar, projetar e testar APIs melhores por meio do desenvolvimento de primeira especificação orientado por pipelines APIOps CI/CD: [Insomnia](https://insomnia.rest/download)
+
+- Método POST - 02:27: Nessa aula aprenderemos como utilizar o método POST dentro do Insomnia
+
+- Body Params - 04:57: Nessa aula aprenderemos como enviar e receber dados utilizando o body da nossa requisição no formato JSON.
+
 - Organizando a estrutura do projeto - 10:48
 - Controllers - 06:08
 - Users Controller - 04:08
