@@ -4,7 +4,7 @@
   "description": "- `npm init -y` - Iniciando um projeto Nodejs - 04:49: Nessa aula aprenderemos a criar um projeto utilizando o Node.js para já dar início ao nosso primeiro projeto.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/server.js"
   },
   "keywords": [],
   "author": "",
