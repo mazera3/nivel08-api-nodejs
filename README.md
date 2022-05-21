@@ -50,8 +50,12 @@
     - utils
     - database / sqlite / migrations
 
-- Controllers - 06:08
-- Users Controller - 04:08
+- Controllers - 06:08: Nessa aula aprenderemos o que são os Controllers, como utilizá-los em nosso projeto e boas práticas para sua utilização.
+
+  - Criar pasta/arquivo controllers/UsersController.js
+
+- Users Controller - 04:08: Nessa aula começaremos a separar as responsabilidades do nosso projeto, para isso criaremos o nosso primeiro Controller (User Controller).
+
 - HTTP Codes - 04:35
 - Entendendo Middlewares - 05:35
 - Utilizando Middlewares - 09:49
