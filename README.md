@@ -1,0 +1,27 @@
+# Criando uma aplicação Node.js
+- `npm init -y`
+- Iniciando um projeto Nodejs - 04:49: Nessa aula aprenderemos a criar um projeto utilizando o Node.js para já dar início ao nosso primeiro projeto.
+
+- Adicionando o Express - 02:27: Nessa aula aprenderemos como instalar o Express em nosso projeto, o Express é um framework utilizado para lidar com requisições HTTP.
+    - O [Express](https://expressjs.com/pt-br/) é um framework para aplicativo da web do Node.js mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel.
+    - Instalação: `npm install express --save`
+- node_modules - 05:12
+- Utilizando o Express - 04:55
+- Executando a aplicação - 03:13
+- Rotas e Métodos HTTP - 05:14
+- Método GET - 05:59
+- Route Params - 09:59
+- Query Params - 08:23
+- Nodemon - 07:49
+- Insomnia - 02:48
+- Método POST - 02:27
+- Body Params - 04:57
+- Organizando a estrutura do projeto - 10:48
+- Controllers - 06:08
+- Users Controller - 04:08
+- HTTP Codes - 04:35
+- Entendendo Middlewares - 05:35
+- Utilizando Middlewares - 09:49
+- App Error - 03:50
+- Tratando exceções - 09:06
+- Configurando o Insomnia - 05:25
