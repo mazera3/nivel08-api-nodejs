@@ -68,7 +68,9 @@
 
 <img src="./img/node9.jpg">
 
-- Utilizando Middlewares - 09:49
-- App Error - 03:50
+- Utilizando Middlewares - 09:49: Nessa aula aprenderemos como utilizar o Middleware em nosso projeto.
+
+- App Error - 03:50: Nessa aula aprenderemos a tratar excessões criando um arquivo para tratar os erros inesperados e para que não interfira no funcionamento da nossa aplicação.
+  - utils/AppError.js
 - Tratando exceções - 09:06
 - Configurando o Insomnia - 05:25
