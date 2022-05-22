@@ -62,7 +62,12 @@
 
 <img src="./img/node7.jpg">
 
-- Entendendo Middlewares - 05:35
+- Entendendo Middlewares - 05:35: Nessa aula aprenderemos qual a função Middleware e o que eles podem fazer dentro de uma API.
+
+<img src="./img/node8.jpg">
+
+<img src="./img/node9.jpg">
+
 - Utilizando Middlewares - 09:49
 - App Error - 03:50
 - Tratando exceções - 09:06
