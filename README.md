@@ -71,6 +71,9 @@
 - Utilizando Middlewares - 09:49: Nessa aula aprenderemos como utilizar o Middleware em nosso projeto.
 
 - App Error - 03:50: Nessa aula aprenderemos a tratar excessões criando um arquivo para tratar os erros inesperados e para que não interfira no funcionamento da nossa aplicação.
-  - utils/AppError.js
-- Tratando exceções - 09:06
+
+  - Criar classe: utils/AppError.js
+
+- Tratando exceções - 09:06: Nessa aula aprenderemos como tratar exceções para sempre que nossa aplicação der um erro conseguirmos identificar de onde está vindo (client ou server).
+  - Instalar: npm install express-async-errors --save
 - Configurando o Insomnia - 05:25
